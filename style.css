@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: lightpink;
+    width: 100vh;
+    height: 100%;
+}
+h1{
+    color: blue;
+    font-size: 3rem;
+
+}
+input{
+    width: 20vh;
+    height: 6vh;
+    font-size: 1.5rem;
+    border: 3px solid black;
+
+}
+select{
+    width: 20vh;
+    height: 6vh;
+    color: blue;
+    font-size: 1.5rem;
+}
+ul{
+    color: green;
+    font-size: 2rem;
+}
+p{
+    color: blue;
+    font-size: 2rem;
+}
+button{
+    width: 20vh;
+    height: 6vh;
+    font-size: 1.5rem;
+    color: blue;
+}
+option{
+    font-size: 3rem;
+}
